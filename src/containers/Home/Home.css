@@ -1,0 +1,10 @@
+.home {
+    text-align: center;
+}
+
+.home-loader {
+    position: absolute;
+    z-index: 10000;
+    left: 46%;
+    top: 25%;
+}
